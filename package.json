@@ -1,0 +1,15 @@
+{
+  "name": "pirple",
+  "version": "1.0.0",
+  "description": "Practice for Pirple Node Js master class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "practice"
+  ],
+  "author": "Hugo Yupanqui",
+  "license": "MIT"
+}
